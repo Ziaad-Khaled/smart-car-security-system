@@ -71,8 +71,9 @@ To run this project, follow these steps:
 
 ## Video
 
+https://github.com/Ziaad-Khaled/smart-car-security-system/assets/77291238/fe78e55d-e936-4cde-94b9-fb2e81c3c157
 
-https://github.com/Ziaad-Khaled/smart-car-security-system/assets/77291238/eb0681a9-a5d4-49ff-a0ba-23c15f24e229
+
 
 
 
